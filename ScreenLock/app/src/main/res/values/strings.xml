@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Screen Lock</string>
+    <string name="lock_btn">Заблокировать</string>
+    <string name="change_password_btn">Изменить пароль</string>
+    <string name="cancel_btn">Отмена</string>
+    <string name="start_btn">Запустить</string>
+    <string name="stop_btn">Остановить</string>
+</resources>
